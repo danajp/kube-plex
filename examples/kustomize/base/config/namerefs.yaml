@@ -1,5 +1,0 @@
-nameReference:
-  - kind: Deployment
-    fieldSpecs:
-      - path: spec/template/spec/hostname
-        kind: Deployment

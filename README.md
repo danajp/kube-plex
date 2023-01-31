@@ -5,7 +5,7 @@ distributes transcode jobs by creating jobs in a Kubernetes cluster to perform
 transcodes, instead of running transcodes on the Plex Media Server instance
 itself.
 
-[ressu/kube-plex](https://github.com/ressu/kube-plex) is a fork from
+[NRDiaz92/kube-plex](https://github.com/NRDiaz92/kube-plex) is a fork from
 [munnerz/kube-plex](https://github.com/munnerz/kube-plex).
 
 ## How it works
@@ -63,7 +63,7 @@ working. Test it by using an off network client (e.g. a phone) to verify.
 Register the helm chart for this repository by running
 
 ```bash
-helm repo add kube-plex https://ressu.github.io/kube-plex
+helm repo add kube-plex https://NRDiaz92.github.io/kube-plex
 ```
 
 Claim token and other chart configuration is defined with the `--set` flags.
