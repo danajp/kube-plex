@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   kube-plex:
   - apiVersion: v1
-    created: "2023-01-31T04:08:55.886980261Z"
+    created: "2023-01-31T04:15:26.054592402Z"
     description: Plex Media Server
     digest: 597f21fd148311d9d1e73c6ee3207ba240ea77521819d8b384c6704a11b57dd1
     home: https://plex.tv/
@@ -19,4 +19,4 @@ entries:
     urls:
     - https://nrdiaz.github.io/kube-plex/kube-plex-0.3.2.tgz
     version: 0.3.2
-generated: "2023-01-31T04:08:55.885576953Z"
+generated: "2023-01-31T04:15:26.05265649Z"
